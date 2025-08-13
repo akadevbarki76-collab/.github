@@ -1,4 +1,4 @@
-Here’s a brainstormed README structure inspired by GitHub’s style but tailored for **Engineering Webmaster Innovations in Embedded Systems**, blending technical depth with engaging storytelling:
+ a brainstormed README structure inspired by GitHub’s style but tailored for **Engineering Webmaster Innovations in Embedded Systems**, blending technical depth with engaging storytelling:
 
 ---
 
